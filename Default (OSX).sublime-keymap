@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+q"], "command": "save_workspaces_on_quit" }
+]
