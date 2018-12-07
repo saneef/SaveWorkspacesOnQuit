@@ -1,6 +1,6 @@
 # Save Workspaces on Quit
 
-Keep loosing your workspace state by <kbd>cmd</kbd> + <kbd>q</kbd>? This plugins closes each open workspaces and just before Sublime Text quits.
+Keep loosing your workspace state on <kbd>cmd</kbd> + <kbd>q</kbd>? This plugins closes each open workspaces and just before Sublime Text quits.
 
 ## Installing
 
