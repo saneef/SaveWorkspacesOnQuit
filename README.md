@@ -6,7 +6,9 @@ Keep loosing your workspace state by <kbd>cmd</kbd> + <kbd>q</kbd>? This plugins
 
 Clone this git repository into your [Packages Directory](http://sublimetext.info/docs/en/basic_concepts.html):
 
-  git://github.com/saneef/sublime-maybs-quit.git
+```bash
+$ git clone https://github.com/saneef/SaveWorkspacesOnQuit.git
+```
 
 ## On Linux or Windows
 
