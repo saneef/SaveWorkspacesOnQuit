@@ -1,3 +1,4 @@
 [
-	{ "keys": ["super+q"], "command": "save_workspaces_on_quit" }
+	{ "keys": ["super+q"], "command": "save_workspaces_on_quit" },
+	{ "keys": ["super+shift+w"], "command": "save_workspaces_on_window_close" },
 ]
